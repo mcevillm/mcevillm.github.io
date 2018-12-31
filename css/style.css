@@ -262,7 +262,7 @@ nav ul li a {
   margin-bottom: 10px;
   text-transform: uppercase;
   color: #fff;
-  padding-left: 110px;
+  padding-left: 300px;
 }
 
 .header-content p {
@@ -273,7 +273,7 @@ nav ul li a {
   text-transform: capitalize;
   color: #fff;
   font-weight: 500;
-  padding-left: 110px;
+  padding-left: 300px;
 }
 
 .header-content .list-social li {
