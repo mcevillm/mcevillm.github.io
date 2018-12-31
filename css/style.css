@@ -253,7 +253,7 @@ nav ul li a {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  padding-left: 110px;
+  padding-left: 300px;
 }
 
 .header-content h1 {
