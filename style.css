@@ -84,6 +84,7 @@ html, body {
 .logo {
   width: 10%;
 	position: relative;
+	background-color:white;
 	top: -13vw;
 	left: 8vw;
   border-radius: 50%;
