@@ -319,4 +319,18 @@ section {
 		margin-bottom: 2vw;
 	}
 
+	.line-1{
+	    position: absolute;
+	    top: -25vw;
+	    width: 100%;
+	    margin: 0 auto;
+			margin-left: 7%;
+	    font-size: 80%;
+			color: white;
+			text-transform: uppercase;
+	    text-align: left;
+	    white-space: nowrap;
+	    overflow: hidden;
+	}
+
 }
